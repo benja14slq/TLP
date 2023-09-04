@@ -1,0 +1,99 @@
+#fila1, #fila2, #fila3, #fila4{
+    height: 100vh;
+}
+
+#fila1{
+    background-color: #6dccaa;
+}
+
+#fila2{
+    background-color: #fff;
+}
+
+#fila3{
+    background-color: #ffcf3f;
+}
+
+#fila4{
+    background-color: #fff;
+}
+
+#footer{
+    height: 10vh;
+    padding-top: 18vh;
+    margin-bottom: 5vh;
+}
+
+#imgVegan{
+    height: 50vh;
+    margin-top: 50px;
+}
+
+#imgKnof{
+    height: 25vh;
+    margin-bottom: 25vh;
+}
+
+#imgRadijs{
+    height: 25vh;
+    margin-top: 25vh;
+}
+
+#imgEet{
+    height: 80vh;
+    margin-top: 5vh;
+}
+
+.nav{
+    padding-top: 100px;
+}
+
+.bg-custom-color{
+    background-color: #85d4b7;
+    color: #fff;
+}
+
+.h1{
+    font-family: 'Montserrat' , sans-serif;
+}
+
+.h4{
+    font-family: 'Raleway' , sans-serif;
+}
+
+#col1{
+    padding-top: 10vh;
+    margin-bottom: 50vh;
+}
+
+#col2{
+    margin-bottom: 70vh;
+}
+
+#fila2 {
+    display: flex; 
+}
+
+#col3{
+    padding-top: 25vh;
+}
+
+#imgFace, #imgGoogle, #imgInsta, #imgCarta{
+    width: 5vh;
+    height: 5vh;
+}
+
+.img-and-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15vh;
+}
+
+#imgCarta{
+    width: 4vh;
+    height: auto;
+    margin-right: 6px;
+}
+
+
